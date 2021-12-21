@@ -13,7 +13,7 @@ For this [contest](https://www.kaggle.com/c/expedia-personalized-sort/overview),
 - Numpy
 
 ## Files
-- `Expedia_learning_to_rank_with_parameter_tuning.ipynb` built a machine learning-to-rank model using [XGBoost](https://xgboost.readthedocs.io/en/stable/).
+- [`Expedia_learning_to_rank_with_parameter_tuning.ipynb`](https://github.com/wmingch1992/Expedia-Learning-to-rank/blob/main/Expedia_learning_to_rank_with_parameter_tuning.ipynb) built a machine learning-to-rank model using [XGBoost](https://xgboost.readthedocs.io/en/stable/).
 
 ## Results 
 - The evalution metric for this competiion is [Normzlied Discounted Cumulative Gain](https://towardsdatascience.com/normalized-discounted-cumulative-gain-37e6f75090e9) (NDCG@38) 
